@@ -160,11 +160,11 @@ $ export PYCOIN_NATIVE
 ```
 
 
-Donate
-------
 
-Want to donate? Feel free. Send to 1KissZi1jr5eD7Rb9fepRHiS4ur2hc9PwS.
-I'm also available for bitcoin consulting... him@richardkiss.com.
+----
 
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
 
-[BIP0032](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
